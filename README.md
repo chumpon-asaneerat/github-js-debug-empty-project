@@ -1,2 +1,3 @@
-# github-empty-project
-The github empty tempate
+# github-js-debug-empty-project
+
+The github vscode debug javascript project template
