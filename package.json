@@ -1,0 +1,19 @@
+{
+  "name": "github-js-debug-empty-project",
+  "version": "1.0.0",
+  "description": "The github vscode debug javascript project template",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/chumpon-asaneerat/github-js-debug-empty-project.git"
+  },
+  "author": "Chumpon Asaneerat",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/chumpon-asaneerat/github-js-debug-empty-project/issues"
+  },
+  "homepage": "https://github.com/chumpon-asaneerat/github-js-debug-empty-project#readme"
+}
