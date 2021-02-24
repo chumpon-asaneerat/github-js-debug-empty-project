@@ -15,5 +15,13 @@
   "bugs": {
     "url": "https://github.com/chumpon-asaneerat/github-js-debug-empty-project/issues"
   },
-  "homepage": "https://github.com/chumpon-asaneerat/github-js-debug-empty-project#readme"
+  "homepage": "https://github.com/chumpon-asaneerat/github-js-debug-empty-project#readme",
+  "dependencies": {
+    "@types/triple-beam": "^1.3.2",
+    "@types/winston": "^2.4.4",
+    "logform": "^2.2.0",
+    "triple-beam": "^1.3.0",
+    "winston": "^3.3.3",
+    "winston-transport": "^4.4.0"
+  }
 }
